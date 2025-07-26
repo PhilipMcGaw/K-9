@@ -1,0 +1,6 @@
+[submodule "BackButtons/BackButtons KiCAD/Assets"]
+	path = BackButtons/BackButtons KiCAD/Assets
+	url = git@github.com:PhilipMcGaw/common_kicad_modules.git
+[submodule "MotorDriver/MotorDriver KiCAD/Assets"]
+	path = MotorDriver/MotorDriver KiCAD/Assets
+	url = git@github.com:PhilipMcGaw/common_kicad_modules.git

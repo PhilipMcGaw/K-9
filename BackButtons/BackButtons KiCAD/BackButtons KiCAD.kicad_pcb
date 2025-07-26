@@ -8,7 +8,11 @@
 	)
 	(paper "A4")
 	(title_block
+		(title "${Project Title}")
 		(date "2025-07-26")
+		(rev "${Revision}")
+		(company "${Company Name}")
+		(comment 1 "${Designed By}")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -35,6 +39,11 @@
 		(41 "User.2" user)
 		(43 "User.3" user)
 		(45 "User.4" user)
+		(47 "User.5" user)
+		(49 "User.6" user)
+		(51 "User.7" user)
+		(53 "User.8" user)
+		(55 "User.9" user)
 	)
 	(setup
 		(pad_to_mask_clearance 0)
@@ -80,7 +89,35 @@
 			(outputdirectory "")
 		)
 	)
+	(property "Company Name" "Philip McGaw.")
+	(property "Designed By" "Designed by Philip McGaw - philip@mcgaw.eu")
+	(property "Project Title" "Project Title")
+	(property "Revision" "0.1")
+	(property "Website" "https://philipmcgaw.com")
 	(net 0 "")
+	(gr_text "${COMMENT1}\n© ${COMPANY} - ${Website}"
+		(at 117.475 145.415 0)
+		(layer "F.SilkS")
+		(uuid "ea226411-c651-4d36-afbc-eeac28fb35bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${TITLE}\nRev: ${REVISION}"
+		(at 117.475 139.7 0)
+		(layer "F.SilkS")
+		(uuid "ebb49c6d-e30f-48e7-9833-cf6d5b63f88d")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+		)
+	)
 	(embedded_fonts no)
 	(embedded_files
 		(file

@@ -444,6 +444,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -616,6 +617,10 @@
     [
       "4f572b99-5eee-4690-a22b-0d608e2cc8a2",
       "Root"
+    ],
+    [
+      "0e66cc90-61f8-4663-a973-c6e7f6eb0668",
+      "Shrimp"
     ]
   ],
   "text_variables": {

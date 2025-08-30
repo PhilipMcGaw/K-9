@@ -2760,7 +2760,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 54.61) (xy 193.04 54.61)
+			(xy 195.58 62.23) (xy 193.04 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2920,7 +2920,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 52.07) (xy 193.04 52.07)
+			(xy 195.58 59.69) (xy 193.04 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2997,6 +2997,16 @@
 			(type default)
 		)
 		(uuid "cd471391-a509-4804-b565-b7d7888b7a10")
+	)
+	(wire
+		(pts
+			(xy 193.04 52.07) (xy 195.58 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d049f4f7-2704-4afa-9d0d-542a7e00ca33")
 	)
 	(wire
 		(pts
@@ -3100,7 +3110,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 57.15) (xy 193.04 57.15)
+			(xy 193.04 54.61) (xy 195.58 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdaa6144-e348-4c3f-833c-a08440a27c98")
+	)
+	(wire
+		(pts
+			(xy 195.58 64.77) (xy 193.04 64.77)
 		)
 		(stroke
 			(width 0)
@@ -3121,7 +3141,7 @@
 	)
 	(hierarchical_label "EyesLight1"
 		(shape output)
-		(at 195.58 52.07 0)
+		(at 195.58 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3132,7 +3152,7 @@
 	)
 	(hierarchical_label "NoseLight"
 		(shape output)
-		(at 195.58 57.15 0)
+		(at 195.58 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3339,6 +3359,17 @@
 		)
 		(uuid "8fc36f0a-ff34-4bd0-9e51-25bfd36127c4")
 	)
+	(hierarchical_label "RightMotorServo"
+		(shape output)
+		(at 195.58 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92040e22-4e7a-40e6-9256-009e07f05237")
+	)
 	(hierarchical_label "BackLED1"
 		(shape output)
 		(at 195.58 113.03 0)
@@ -3394,9 +3425,20 @@
 		)
 		(uuid "c1419e39-9435-4067-9e72-81548d3581f2")
 	)
+	(hierarchical_label "LeftMotorServo"
+		(shape output)
+		(at 195.58 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c7d106f4-a9ae-44cd-aeee-3fd6b4de2025")
+	)
 	(hierarchical_label "EyesLight2"
 		(shape output)
-		(at 195.58 54.61 0)
+		(at 195.58 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -14,7 +14,7 @@ int16_t servo_angle = INITIAL_THETA;
 Servo servomotor;
 unsigned long last_time_received;
 
-// There are four ESCs attached
+// There are eight ESCs attached
 Servo ESC_1;
 Servo ESC_2;
 Servo ESC_3;

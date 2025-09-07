@@ -758,6 +758,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 59.69) (xy 199.39 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d4890a1-c9ca-4e22-aa2a-22532637a16e")
+	)
+	(wire
+		(pts
 			(xy 228.6 82.55) (xy 233.68 82.55)
 		)
 		(stroke
@@ -835,6 +845,16 @@
 			(type default)
 		)
 		(uuid "27fcdee6-ccfd-4e23-b0c8-84a86b27835f")
+	)
+	(wire
+		(pts
+			(xy 194.31 69.85) (xy 199.39 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29126f25-cc29-4d73-bff8-6112658293d7")
 	)
 	(wire
 		(pts
@@ -988,6 +1008,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 67.31) (xy 199.39 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d5f486c-043c-4310-a568-6e2114ad2250")
+	)
+	(wire
+		(pts
 			(xy 228.6 41.91) (xy 233.68 41.91)
 		)
 		(stroke
@@ -1025,6 +1055,16 @@
 			(type default)
 		)
 		(uuid "78dceeb8-2a0d-4ba1-8bb8-a2e3609b480f")
+	)
+	(wire
+		(pts
+			(xy 194.31 64.77) (xy 199.39 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7962698f-facc-4044-8b26-a17eed8a70ec")
 	)
 	(wire
 		(pts
@@ -1075,6 +1115,26 @@
 			(type default)
 		)
 		(uuid "8fd6aa17-46ac-4a8c-8a6d-afbd5926284d")
+	)
+	(wire
+		(pts
+			(xy 194.31 74.93) (xy 199.39 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91751a99-673a-4ec3-9776-6d9214da9a7e")
+	)
+	(wire
+		(pts
+			(xy 194.31 62.23) (xy 199.39 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "917ebcb2-6184-46db-ad35-ecd58dc23424")
 	)
 	(wire
 		(pts
@@ -1145,6 +1205,26 @@
 			(type default)
 		)
 		(uuid "c15ec9b0-e82e-4809-9da6-004b9d318490")
+	)
+	(wire
+		(pts
+			(xy 194.31 57.15) (xy 199.39 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1acb804-5fb7-4152-8e51-e86a5b53b846")
+	)
+	(wire
+		(pts
+			(xy 194.31 72.39) (xy 199.39 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d47c74ac-31ac-45ec-ba39-f3b2c773b1a2")
 	)
 	(wire
 		(pts
@@ -1450,8 +1530,8 @@
 		)
 	)
 	(sheet
-		(at 179.07 22.86)
-		(size 49.53 140.97)
+		(at 199.39 22.86)
+		(size 29.21 140.97)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1466,7 +1546,7 @@
 		)
 		(uuid "0e66cc90-61f8-4663-a973-c6e7f6eb0668")
 		(property "Sheetname" "Shrimp"
-			(at 179.07 22.1484 0)
+			(at 199.39 22.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1475,7 +1555,7 @@
 			)
 		)
 		(property "Sheetfile" "shrimp.kicad_sch"
-			(at 179.07 164.4146 0)
+			(at 199.39 164.4146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1825,7 +1905,7 @@
 			)
 		)
 		(pin "DoorBut1" input
-			(at 179.07 57.15 180)
+			(at 199.39 57.15 180)
 			(uuid "585da326-bf8e-4e42-a3a5-5fddedbaaf21")
 			(effects
 				(font
@@ -1835,7 +1915,7 @@
 			)
 		)
 		(pin "DoorBut2" input
-			(at 179.07 59.69 180)
+			(at 199.39 59.69 180)
 			(uuid "70bb65ce-bcf6-43d6-9e5b-363a71d84aae")
 			(effects
 				(font
@@ -1845,7 +1925,7 @@
 			)
 		)
 		(pin "ADC_I" input
-			(at 179.07 76.2 180)
+			(at 199.39 88.9 180)
 			(uuid "66d02886-bce6-4d05-b0ed-6b5f1861c44a")
 			(effects
 				(font
@@ -1855,7 +1935,7 @@
 			)
 		)
 		(pin "ADC_V" input
-			(at 179.07 80.01 180)
+			(at 199.39 80.01 180)
 			(uuid "c9ed8fd7-fcdd-48ae-b24a-db18580d11b6")
 			(effects
 				(font
@@ -1952,6 +2032,66 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "SpaireBut1" input
+			(at 199.39 62.23 180)
+			(uuid "f7d192f5-8372-4f6f-ab1c-c834a6f0bb3f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireBut2" input
+			(at 199.39 64.77 180)
+			(uuid "303af20b-b9b0-4b1a-9bbd-fec93e9d8687")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireBut3" input
+			(at 199.39 67.31 180)
+			(uuid "1878bf30-8062-4bf4-b358-7763af4d105d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireBut4" input
+			(at 199.39 69.85 180)
+			(uuid "64dcd3da-f287-45a2-a61d-8552749c6778")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireBut5" input
+			(at 199.39 72.39 180)
+			(uuid "925750f7-8c5e-4c75-8bb7-86a4462b7a60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireBut6" input
+			(at 199.39 74.93 180)
+			(uuid "cc95b6a1-14fa-421a-9229-27220b580f71")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -2364,6 +2504,129 @@
 			(project "BCM"
 				(path "/4f572b99-5eee-4690-a22b-0d608e2cc8a2"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 55.88)
+		(size 29.21 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "856c3014-848b-4b91-b093-3c6bbb8bb013")
+		(property "Sheetname" "Misc Switches"
+			(at 165.1 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Switches.kicad_sch"
+			(at 165.1 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "DoorBut1" output
+			(at 194.31 57.15 0)
+			(uuid "9a64d32c-a144-4a3f-bf68-8264290b0adf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DoorBut2" output
+			(at 194.31 59.69 0)
+			(uuid "d1d29a1e-1e30-4432-85a4-2685ad7c525b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireBut1" output
+			(at 194.31 62.23 0)
+			(uuid "b12f314e-8bd8-475d-b6ef-21b27b16fcb4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireBut2" output
+			(at 194.31 64.77 0)
+			(uuid "143ef504-b8db-422b-b9c2-b4e3726ce452")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireBut3" output
+			(at 194.31 67.31 0)
+			(uuid "75106673-cfc7-4de6-b24c-1b69b4e6c060")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireBut4" output
+			(at 194.31 69.85 0)
+			(uuid "ca61b505-5128-4a6f-974e-6f4e128a296f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireBut5" output
+			(at 194.31 72.39 0)
+			(uuid "c313b656-0614-4e0c-99b6-0428f85a910f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireBut6" output
+			(at 194.31 74.93 0)
+			(uuid "553fe734-2648-46c9-87d2-8c6e2c698faa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BCM"
+				(path "/4f572b99-5eee-4690-a22b-0d608e2cc8a2"
+					(page "5")
 				)
 			)
 		)

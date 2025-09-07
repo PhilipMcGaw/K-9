@@ -2600,7 +2600,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 125.73) (xy 193.04 125.73)
+			(xy 195.58 105.41) (xy 193.04 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2620,7 +2620,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 77.47) (xy 195.58 77.47)
+			(xy 233.68 81.28) (xy 236.22 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2640,7 +2640,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 97.79) (xy 193.04 97.79)
+			(xy 195.58 77.47) (xy 193.04 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2650,7 +2650,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 87.63) (xy 193.04 87.63)
+			(xy 195.58 67.31) (xy 193.04 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2660,13 +2660,23 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 130.81) (xy 195.58 130.81)
+			(xy 193.04 110.49) (xy 195.58 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1a8a2df6-400a-4e95-9195-fad9731ca498")
+	)
+	(wire
+		(pts
+			(xy 193.04 74.93) (xy 195.58 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "223c3265-ab9a-4724-ba03-b155b337ccc0")
 	)
 	(wire
 		(pts
@@ -2680,7 +2690,27 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 105.41) (xy 193.04 105.41)
+			(xy 193.04 133.35) (xy 195.58 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28b38906-c5b9-4759-aafd-4597b692586c")
+	)
+	(wire
+		(pts
+			(xy 124.46 41.91) (xy 127 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29b79783-c1df-492b-b518-8100b08b8cae")
+	)
+	(wire
+		(pts
+			(xy 195.58 85.09) (xy 193.04 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2690,7 +2720,17 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 113.03) (xy 195.58 113.03)
+			(xy 193.04 125.73) (xy 195.58 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d4f02e1-bfcc-47c9-a146-03cd3ebfdb2f")
+	)
+	(wire
+		(pts
+			(xy 193.04 92.71) (xy 195.58 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2710,7 +2750,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 52.07) (xy 195.58 52.07)
+			(xy 238.76 50.8) (xy 241.3 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2720,7 +2760,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 102.87) (xy 193.04 102.87)
+			(xy 195.58 82.55) (xy 193.04 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2730,7 +2770,27 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 82.55) (xy 193.04 82.55)
+			(xy 193.04 72.39) (xy 195.58 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3db87f73-e2f7-4261-a26e-fdf9619de12c")
+	)
+	(wire
+		(pts
+			(xy 124.46 39.37) (xy 127 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4040fb9d-4a42-456c-b0b1-2a87879895ce")
+	)
+	(wire
+		(pts
+			(xy 195.58 62.23) (xy 193.04 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2760,7 +2820,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 118.11) (xy 193.04 118.11)
+			(xy 124.46 44.45) (xy 127 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f890336-f8d4-4fd1-b4a7-461f4121d369")
+	)
+	(wire
+		(pts
+			(xy 195.58 97.79) (xy 193.04 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2780,7 +2850,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 67.31) (xy 193.04 67.31)
+			(xy 195.58 138.43) (xy 193.04 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2790,7 +2860,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 74.93) (xy 195.58 74.93)
+			(xy 233.68 78.74) (xy 236.22 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2800,7 +2870,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 123.19) (xy 193.04 123.19)
+			(xy 195.58 102.87) (xy 193.04 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2810,7 +2880,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 140.97) (xy 193.04 140.97)
+			(xy 195.58 120.65) (xy 193.04 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2820,7 +2890,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 85.09) (xy 193.04 85.09)
+			(xy 195.58 64.77) (xy 193.04 64.77)
 		)
 		(stroke
 			(width 0)
@@ -2830,7 +2900,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 100.33) (xy 193.04 100.33)
+			(xy 195.58 80.01) (xy 193.04 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2840,7 +2910,17 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 59.69) (xy 195.58 59.69)
+			(xy 124.46 36.83) (xy 127 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83727b90-f765-4fb2-bcfc-f85ddb3fba69")
+	)
+	(wire
+		(pts
+			(xy 238.76 58.42) (xy 241.3 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2860,7 +2940,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 92.71) (xy 193.04 92.71)
+			(xy 124.46 49.53) (xy 127 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ee46a5f-2ff7-4760-b7ec-802f994104f1")
+	)
+	(wire
+		(pts
+			(xy 124.46 52.07) (xy 127 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2870,7 +2960,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 110.49) (xy 193.04 110.49)
+			(xy 195.58 90.17) (xy 193.04 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2880,7 +2970,17 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 128.27) (xy 193.04 128.27)
+			(xy 193.04 128.27) (xy 195.58 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95d2d381-90d5-4113-8485-9a03e3a7ac3b")
+	)
+	(wire
+		(pts
+			(xy 195.58 107.95) (xy 193.04 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2900,7 +3000,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 135.89) (xy 193.04 135.89)
+			(xy 195.58 115.57) (xy 193.04 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2910,7 +3010,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 115.57) (xy 193.04 115.57)
+			(xy 195.58 95.25) (xy 193.04 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2950,7 +3050,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 64.77) (xy 193.04 64.77)
+			(xy 195.58 140.97) (xy 193.04 140.97)
 		)
 		(stroke
 			(width 0)
@@ -2960,7 +3060,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 107.95) (xy 193.04 107.95)
+			(xy 195.58 87.63) (xy 193.04 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2980,7 +3080,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 133.35) (xy 193.04 133.35)
+			(xy 195.58 113.03) (xy 193.04 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3010,7 +3110,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 90.17) (xy 193.04 90.17)
+			(xy 195.58 69.85) (xy 193.04 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3030,7 +3130,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 138.43) (xy 193.04 138.43)
+			(xy 195.58 118.11) (xy 193.04 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3040,7 +3140,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 54.61) (xy 195.58 54.61)
+			(xy 238.76 53.34) (xy 241.3 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3060,6 +3160,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 130.81) (xy 195.58 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d31c0e33-d1de-41c2-baca-8d5e38d3f9ef")
+	)
+	(wire
+		(pts
 			(xy 195.58 36.83) (xy 193.04 36.83)
 		)
 		(stroke
@@ -3067,6 +3177,16 @@
 			(type default)
 		)
 		(uuid "d849913e-eff3-4389-a641-84139aa061be")
+	)
+	(wire
+		(pts
+			(xy 193.04 123.19) (xy 195.58 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df4515aa-144f-44f1-bbe4-7a9897201927")
 	)
 	(wire
 		(pts
@@ -3080,6 +3200,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 46.99) (xy 127 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e97a365e-44a8-4c5e-9812-957dd5a26698")
+	)
+	(wire
+		(pts
 			(xy 114.3 118.11) (xy 114.3 140.97)
 		)
 		(stroke
@@ -3090,7 +3220,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 120.65) (xy 193.04 120.65)
+			(xy 195.58 100.33) (xy 193.04 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3140,7 +3270,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 95.25) (xy 193.04 95.25)
+			(xy 124.46 54.61) (xy 127 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3150,7 +3280,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 57.15) (xy 195.58 57.15)
+			(xy 238.76 55.88) (xy 241.3 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3160,7 +3290,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 69.85) (xy 193.04 69.85)
+			(xy 195.58 135.89) (xy 193.04 135.89)
 		)
 		(stroke
 			(width 0)
@@ -3168,20 +3298,31 @@
 		)
 		(uuid "fe5c30f3-22bd-4cab-be18-78709d069b09")
 	)
-	(hierarchical_label "BackBut11"
-		(shape input)
-		(at 195.58 133.35 0)
+	(hierarchical_label "SpaireLight2"
+		(shape output)
+		(at 195.58 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
+		(uuid "00445099-0ea5-4492-8a61-d194771c96fb")
+	)
+	(hierarchical_label "BackBut11"
+		(shape input)
+		(at 124.46 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
 		(uuid "015b9bdb-a891-43b0-a14e-e2c62467f295")
 	)
 	(hierarchical_label "EyesLight1"
 		(shape output)
-		(at 195.58 64.77 0)
+		(at 195.58 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3192,7 +3333,7 @@
 	)
 	(hierarchical_label "NoseLight"
 		(shape output)
-		(at 195.58 69.85 0)
+		(at 195.58 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3203,18 +3344,18 @@
 	)
 	(hierarchical_label "BackBut5"
 		(shape input)
-		(at 195.58 102.87 0)
+		(at 124.46 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "100e20e0-b841-4467-98ef-9a2073041962")
 	)
 	(hierarchical_label "BackLED4"
 		(shape output)
-		(at 195.58 100.33 0)
+		(at 195.58 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3225,7 +3366,7 @@
 	)
 	(hierarchical_label "BackLED3"
 		(shape output)
-		(at 195.58 95.25 0)
+		(at 195.58 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3234,9 +3375,20 @@
 		)
 		(uuid "2cf43d49-3671-4a33-8981-300aee931863")
 	)
+	(hierarchical_label "SpaireLight5"
+		(shape output)
+		(at 195.58 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "33944c74-385e-4554-8d98-d426de792da3")
+	)
 	(hierarchical_label "BackLED8"
 		(shape output)
-		(at 195.58 120.65 0)
+		(at 195.58 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3245,20 +3397,31 @@
 		)
 		(uuid "41241df5-e5f2-46bd-9652-119d7cef8bef")
 	)
-	(hierarchical_label "BackBut6"
-		(shape input)
-		(at 195.58 107.95 0)
+	(hierarchical_label "SpaireLight3"
+		(shape output)
+		(at 195.58 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
+		(uuid "4620c7dd-8b33-4d95-a06d-38859394c22b")
+	)
+	(hierarchical_label "BackBut6"
+		(shape input)
+		(at 124.46 36.83 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
 		(uuid "4ea9007f-1ba6-4466-9e46-5004be265f67")
 	)
 	(hierarchical_label "BackBut8"
 		(shape input)
-		(at 195.58 118.11 0)
+		(at 195.58 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3269,7 +3432,7 @@
 	)
 	(hierarchical_label "BackLED10"
 		(shape output)
-		(at 195.58 130.81 0)
+		(at 195.58 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3280,7 +3443,7 @@
 	)
 	(hierarchical_label "BackLED9"
 		(shape output)
-		(at 195.58 125.73 0)
+		(at 195.58 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3289,9 +3452,20 @@
 		)
 		(uuid "54429ad6-192b-4980-95a7-2695bf106688")
 	)
+	(hierarchical_label "SpaireLight4"
+		(shape output)
+		(at 195.58 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5d3f33f9-b773-4b3a-97e8-4ee9093b3bca")
+	)
 	(hierarchical_label "BackLED2"
 		(shape output)
-		(at 195.58 90.17 0)
+		(at 195.58 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3302,7 +3476,7 @@
 	)
 	(hierarchical_label "DoorBut2"
 		(shape input)
-		(at 195.58 77.47 0)
+		(at 236.22 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3313,7 +3487,7 @@
 	)
 	(hierarchical_label "LeftMotorDir"
 		(shape output)
-		(at 195.58 52.07 0)
+		(at 241.3 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3324,7 +3498,7 @@
 	)
 	(hierarchical_label "BackBut1"
 		(shape input)
-		(at 195.58 82.55 0)
+		(at 195.58 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3335,7 +3509,7 @@
 	)
 	(hierarchical_label "BackBut12"
 		(shape input)
-		(at 195.58 138.43 0)
+		(at 195.58 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3346,7 +3520,7 @@
 	)
 	(hierarchical_label "BackLED7"
 		(shape output)
-		(at 195.58 115.57 0)
+		(at 195.58 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3357,29 +3531,29 @@
 	)
 	(hierarchical_label "BackBut9"
 		(shape input)
-		(at 195.58 123.19 0)
+		(at 124.46 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "84bf05cb-87d1-45a4-a737-4e380fa07fb9")
 	)
 	(hierarchical_label "BackBut10"
 		(shape input)
-		(at 195.58 128.27 0)
+		(at 124.46 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "864430a4-31bc-4128-b0a9-e9906f07989f")
 	)
 	(hierarchical_label "NeckServo"
 		(shape output)
-		(at 195.58 36.83 0)
+		(at 210.82 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3390,7 +3564,7 @@
 	)
 	(hierarchical_label "BackBut2"
 		(shape input)
-		(at 195.58 87.63 0)
+		(at 195.58 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3401,7 +3575,7 @@
 	)
 	(hierarchical_label "BackLED6"
 		(shape output)
-		(at 195.58 110.49 0)
+		(at 195.58 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3412,7 +3586,7 @@
 	)
 	(hierarchical_label "RightMotorDir"
 		(shape output)
-		(at 195.58 57.15 0)
+		(at 241.3 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3423,7 +3597,7 @@
 	)
 	(hierarchical_label "BackLED1"
 		(shape output)
-		(at 195.58 85.09 0)
+		(at 195.58 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3434,7 +3608,7 @@
 	)
 	(hierarchical_label "EarServo1"
 		(shape output)
-		(at 195.58 39.37 0)
+		(at 210.82 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3445,7 +3619,7 @@
 	)
 	(hierarchical_label "NoseServo2"
 		(shape output)
-		(at 195.58 46.99 0)
+		(at 210.82 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3456,7 +3630,7 @@
 	)
 	(hierarchical_label "BackLED11"
 		(shape output)
-		(at 195.58 135.89 0)
+		(at 195.58 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3467,7 +3641,7 @@
 	)
 	(hierarchical_label "RightMotorPWM"
 		(shape output)
-		(at 195.58 59.69 0)
+		(at 241.3 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3476,9 +3650,20 @@
 		)
 		(uuid "b8770d67-686a-446c-99ac-0154d1175db2")
 	)
+	(hierarchical_label "SpaireLight1"
+		(shape output)
+		(at 195.58 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc107af0-105d-4991-89f4-99b6dfa9a9b7")
+	)
 	(hierarchical_label "BackLED12"
 		(shape output)
-		(at 195.58 140.97 0)
+		(at 195.58 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3489,7 +3674,7 @@
 	)
 	(hierarchical_label "LeftMotorPWM"
 		(shape output)
-		(at 195.58 54.61 0)
+		(at 241.3 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3500,7 +3685,7 @@
 	)
 	(hierarchical_label "EyesLight2"
 		(shape output)
-		(at 195.58 67.31 0)
+		(at 195.58 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3511,7 +3696,7 @@
 	)
 	(hierarchical_label "TailServo1"
 		(shape output)
-		(at 195.58 31.75 0)
+		(at 210.82 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3522,12 +3707,12 @@
 	)
 	(hierarchical_label "BackBut7"
 		(shape input)
-		(at 195.58 113.03 0)
+		(at 124.46 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "d9e5b541-a60e-4ef2-be6f-76e637cde769")
 	)
@@ -3544,18 +3729,18 @@
 	)
 	(hierarchical_label "BackBut3"
 		(shape input)
-		(at 195.58 92.71 0)
+		(at 124.46 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "dfb0dacb-80a8-45f9-9e92-121c44ae534c")
 	)
 	(hierarchical_label "DoorBut1"
 		(shape input)
-		(at 195.58 74.93 0)
+		(at 236.22 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3566,7 +3751,7 @@
 	)
 	(hierarchical_label "TailServo2"
 		(shape output)
-		(at 195.58 34.29 0)
+		(at 210.82 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3577,7 +3762,7 @@
 	)
 	(hierarchical_label "BackLED5"
 		(shape output)
-		(at 195.58 105.41 0)
+		(at 195.58 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3588,7 +3773,7 @@
 	)
 	(hierarchical_label "NoseServo1"
 		(shape output)
-		(at 195.58 44.45 0)
+		(at 210.82 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3610,7 +3795,7 @@
 	)
 	(hierarchical_label "EarServo2"
 		(shape output)
-		(at 195.58 41.91 0)
+		(at 210.82 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3621,12 +3806,12 @@
 	)
 	(hierarchical_label "BackBut4"
 		(shape input)
-		(at 195.58 97.79 0)
+		(at 124.46 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ff323563-b4cb-4d7f-8eb5-94961898b638")
 	)

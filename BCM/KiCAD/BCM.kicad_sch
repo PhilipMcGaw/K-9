@@ -768,6 +768,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 96.52) (xy 233.68 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "108b9ae7-9a34-476d-b024-82318b4a2a45")
+	)
+	(wire
+		(pts
 			(xy 35.56 38.1) (xy 38.1 38.1)
 		)
 		(stroke
@@ -775,6 +785,16 @@
 			(type default)
 		)
 		(uuid "1527ade1-81c3-46a9-8ce0-ebb4bccc0e80")
+	)
+	(wire
+		(pts
+			(xy 228.6 93.98) (xy 233.68 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c2b91bd-95fd-40ce-b747-110fad07f8ea")
 	)
 	(wire
 		(pts
@@ -838,6 +858,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 104.14) (xy 233.68 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c560303-dd94-4340-93d1-d0c59fa26f28")
+	)
+	(wire
+		(pts
 			(xy 38.1 33.02) (xy 38.1 35.56)
 		)
 		(stroke
@@ -888,6 +918,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 99.06) (xy 233.68 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "430db320-c1db-4b50-8464-cd18b6c93c0e")
+	)
+	(wire
+		(pts
 			(xy 228.6 67.31) (xy 233.68 67.31)
 		)
 		(stroke
@@ -895,6 +935,16 @@
 			(type default)
 		)
 		(uuid "44b9c47c-7997-47e7-8149-933d1263ea04")
+	)
+	(wire
+		(pts
+			(xy 228.6 91.44) (xy 233.68 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46fe1a21-5ff2-45d9-9bfc-f7acd3f0eb7e")
 	)
 	(wire
 		(pts
@@ -925,6 +975,16 @@
 			(type default)
 		)
 		(uuid "511ca6cd-35ee-4c78-b393-e733d2c663f2")
+	)
+	(wire
+		(pts
+			(xy 228.6 88.9) (xy 233.68 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ab73797-60ad-4fce-bca2-8fd6e761d266")
 	)
 	(wire
 		(pts
@@ -975,6 +1035,16 @@
 			(type default)
 		)
 		(uuid "7abe290b-70aa-48cf-a491-6336403474f0")
+	)
+	(wire
+		(pts
+			(xy 228.6 101.6) (xy 233.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ddf7066-dc29-4bed-812b-c1d001708a18")
 	)
 	(wire
 		(pts
@@ -1045,6 +1115,16 @@
 			(type default)
 		)
 		(uuid "afc954dd-418a-495c-b43c-81f81e8b4b92")
+	)
+	(wire
+		(pts
+			(xy 228.6 106.68) (xy 233.68 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2f45323-2d75-4ff7-bef2-5607e0c94a19")
 	)
 	(wire
 		(pts
@@ -1445,7 +1525,7 @@
 			)
 		)
 		(pin "TailServo2" output
-			(at 228.6 132.08 0)
+			(at 228.6 134.62 0)
 			(uuid "a1705833-a7c4-41ae-ae6e-6368c12b2bbc")
 			(effects
 				(font
@@ -1475,7 +1555,7 @@
 			)
 		)
 		(pin "EarServo2" output
-			(at 228.6 115.57 0)
+			(at 228.6 121.92 0)
 			(uuid "ebb28e71-fbe9-49d7-af54-345d76343faf")
 			(effects
 				(font
@@ -1485,7 +1565,7 @@
 			)
 		)
 		(pin "NoseServo2" output
-			(at 228.6 105.41 0)
+			(at 228.6 114.3 0)
 			(uuid "7e241114-6c3f-43d4-a3da-54841c0df4f9")
 			(effects
 				(font
@@ -1505,7 +1585,7 @@
 			)
 		)
 		(pin "EarServo1" output
-			(at 228.6 109.22 0)
+			(at 228.6 119.38 0)
 			(uuid "d4717999-962e-4e68-ae44-7b5186e5c2a5")
 			(effects
 				(font
@@ -1565,27 +1645,27 @@
 			)
 		)
 		(pin "NoseLight" output
-			(at 179.07 95.25 180)
+			(at 228.6 93.98 0)
 			(uuid "06b4d408-556b-4b92-bdfc-e2aecf623b2c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "EyesLight2" output
-			(at 179.07 99.06 180)
+			(at 228.6 91.44 0)
 			(uuid "ba14011a-1dba-4cee-8d41-113170660be7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "NeckServo" output
-			(at 228.6 123.19 0)
+			(at 228.6 127 0)
 			(uuid "1c3f53ba-9378-44f5-b32e-f37271f80a79")
 			(effects
 				(font
@@ -1675,7 +1755,7 @@
 			)
 		)
 		(pin "NoseServo1" output
-			(at 228.6 100.33 0)
+			(at 228.6 111.76 0)
 			(uuid "66dc87d1-d172-4ad2-bb4d-0ff1ac57535a")
 			(effects
 				(font
@@ -1685,17 +1765,17 @@
 			)
 		)
 		(pin "EyesLight1" output
-			(at 179.07 92.71 180)
+			(at 228.6 88.9 0)
 			(uuid "4f17a240-a5bd-45cb-afc8-395ab40389e5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "TailServo1" output
-			(at 228.6 128.27 0)
+			(at 228.6 132.08 0)
 			(uuid "cae8a632-d89b-44e1-9629-c5611a82ebea")
 			(effects
 				(font
@@ -1785,28 +1865,141 @@
 			)
 		)
 		(pin "LeftMotorDir" output
-			(at 210.82 163.83 270)
+			(at 228.6 147.32 0)
 			(uuid "08fb02c6-ac82-451b-bea3-f86d5dda1027")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "LeftMotorPWM" output
-			(at 207.01 163.83 270)
+			(at 228.6 149.86 0)
 			(uuid "7fb7c964-80e2-4595-bf14-3c67fd1afc49")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "RightMotorDir" output
-			(at 201.93 163.83 270)
+			(at 228.6 152.4 0)
 			(uuid "d63d02f4-ae1f-4236-8390-7261931ac590")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RightMotorPWM" output
+			(at 228.6 154.94 0)
+			(uuid "a892ff1a-9ae4-4fae-ad5d-52f2fb530404")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireLight1" output
+			(at 228.6 96.52 0)
+			(uuid "2b48578f-fffa-4891-bf69-a090a617856a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireLight2" output
+			(at 228.6 99.06 0)
+			(uuid "d8e84e1d-0580-431c-84b4-f21f1c45e276")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireLight3" output
+			(at 228.6 101.6 0)
+			(uuid "cda8213c-d4be-4fc4-a665-45f8fc9eec7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireLight4" output
+			(at 228.6 104.14 0)
+			(uuid "cf40ebfb-f558-4503-9682-4aa52f7e0967")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SpaireLight5" output
+			(at 228.6 106.68 0)
+			(uuid "205ba354-be6b-4c60-a495-b59a3d87b47c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "BCM"
+				(path "/4f572b99-5eee-4690-a22b-0d608e2cc8a2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 233.68 87.63)
+		(size 29.21 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "33f2088d-db46-49c7-bb16-9ab0b81f0692")
+		(property "Sheetname" "Misc Lights"
+			(at 233.68 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "misc lights.kicad_sch"
+			(at 233.68 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "EyesLight1" input
+			(at 233.68 88.9 180)
+			(uuid "5ec1b83c-7539-44cf-b71a-3179ed8a34cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1814,9 +2007,69 @@
 				(justify left)
 			)
 		)
-		(pin "RightMotorPWM" output
-			(at 198.12 163.83 270)
-			(uuid "a892ff1a-9ae4-4fae-ad5d-52f2fb530404")
+		(pin "EyesLight2" input
+			(at 233.68 91.44 180)
+			(uuid "843412dd-6002-424e-9174-b8fc38a76846")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "NoseLight" input
+			(at 233.68 93.98 180)
+			(uuid "f9c01b2c-3851-4154-a711-5cab9efab6dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireLight1" input
+			(at 233.68 96.52 180)
+			(uuid "4f904866-cfdc-4d68-bb71-93db8b8c9b22")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireLight2" input
+			(at 233.68 99.06 180)
+			(uuid "28a3bf3a-0dc9-4e24-b8bd-60086603c627")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireLight3" input
+			(at 233.68 101.6 180)
+			(uuid "b6c82b2d-c14e-4bf1-a65b-e7087ff35279")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireLight4" input
+			(at 233.68 104.14 180)
+			(uuid "ca5fd2af-f71e-484d-bbab-960872a09a17")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SpaireLight5" input
+			(at 233.68 106.68 180)
+			(uuid "d48ab23e-5784-4e85-8b8b-e832ee475ac4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1827,7 +2080,7 @@
 		(instances
 			(project "BCM"
 				(path "/4f572b99-5eee-4690-a22b-0d608e2cc8a2"
-					(page "2")
+					(page "4")
 				)
 			)
 		)

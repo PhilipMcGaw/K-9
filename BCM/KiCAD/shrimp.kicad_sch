@@ -2286,142 +2286,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+VDC"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+VDC"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+VDC\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+VDC_0_1"
-				(polyline
-					(pts
-						(xy -1.143 3.175) (xy 1.143 3.175)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 3.175)
-					(radius 1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.032) (xy 0 4.318)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+VDC_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -3220,16 +3084,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 118.11) (xy 114.3 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb5bdbee-287c-4a59-8a3e-a5e5b7e0e881")
-	)
-	(wire
-		(pts
 			(xy 193.04 49.53) (xy 195.58 49.53)
 		)
 		(stroke
@@ -3341,7 +3195,7 @@
 	)
 	(hierarchical_label "BackBut11"
 		(shape input)
-		(at 195.58 110.49 0)
+		(at 195.58 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3352,7 +3206,7 @@
 	)
 	(hierarchical_label "EyesLight1"
 		(shape output)
-		(at 195.58 120.65 0)
+		(at 195.58 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3374,7 +3228,7 @@
 	)
 	(hierarchical_label "NoseLight"
 		(shape output)
-		(at 195.58 125.73 0)
+		(at 195.58 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3407,7 +3261,7 @@
 	)
 	(hierarchical_label "SpaireBut3"
 		(shape input)
-		(at 195.58 135.89 0)
+		(at 195.58 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3429,7 +3283,7 @@
 	)
 	(hierarchical_label "SpaireLight5"
 		(shape output)
-		(at 195.58 128.27 0)
+		(at 195.58 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3451,7 +3305,7 @@
 	)
 	(hierarchical_label "SpaireLight3"
 		(shape output)
-		(at 195.58 130.81 0)
+		(at 195.58 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3462,7 +3316,7 @@
 	)
 	(hierarchical_label "BackBut6"
 		(shape input)
-		(at 195.58 95.25 0)
+		(at 195.58 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3473,7 +3327,7 @@
 	)
 	(hierarchical_label "BackBut8"
 		(shape input)
-		(at 195.58 115.57 0)
+		(at 195.58 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3561,7 +3415,7 @@
 	)
 	(hierarchical_label "BackBut12"
 		(shape input)
-		(at 195.58 113.03 0)
+		(at 195.58 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3572,7 +3426,7 @@
 	)
 	(hierarchical_label "BackLED7"
 		(shape output)
-		(at 195.58 97.79 0)
+		(at 195.58 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3583,7 +3437,7 @@
 	)
 	(hierarchical_label "SpaireBut6"
 		(shape input)
-		(at 195.58 138.43 0)
+		(at 195.58 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3594,7 +3448,7 @@
 	)
 	(hierarchical_label "BackBut9"
 		(shape input)
-		(at 195.58 105.41 0)
+		(at 195.58 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3605,7 +3459,7 @@
 	)
 	(hierarchical_label "BackBut10"
 		(shape input)
-		(at 195.58 102.87 0)
+		(at 195.58 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3616,7 +3470,7 @@
 	)
 	(hierarchical_label "NeckServo"
 		(shape output)
-		(at 248.92 106.68 0)
+		(at 218.44 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3638,7 +3492,7 @@
 	)
 	(hierarchical_label "BackLED6"
 		(shape output)
-		(at 195.58 92.71 0)
+		(at 195.58 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3660,7 +3514,7 @@
 	)
 	(hierarchical_label "SpaireBut4"
 		(shape input)
-		(at 195.58 133.35 0)
+		(at 195.58 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3682,7 +3536,7 @@
 	)
 	(hierarchical_label "EarServo1"
 		(shape output)
-		(at 248.92 109.22 0)
+		(at 218.44 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3693,7 +3547,7 @@
 	)
 	(hierarchical_label "NoseServo2"
 		(shape output)
-		(at 248.92 116.84 0)
+		(at 218.44 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3726,7 +3580,7 @@
 	)
 	(hierarchical_label "SpaireLight1"
 		(shape output)
-		(at 195.58 123.19 0)
+		(at 195.58 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3748,7 +3602,7 @@
 	)
 	(hierarchical_label "SpaireBut5"
 		(shape input)
-		(at 195.58 140.97 0)
+		(at 195.58 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3770,7 +3624,7 @@
 	)
 	(hierarchical_label "EyesLight2"
 		(shape output)
-		(at 195.58 118.11 0)
+		(at 195.58 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3781,7 +3635,7 @@
 	)
 	(hierarchical_label "TailServo1"
 		(shape output)
-		(at 248.92 101.6 0)
+		(at 218.44 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3792,7 +3646,7 @@
 	)
 	(hierarchical_label "BackBut7"
 		(shape input)
-		(at 195.58 100.33 0)
+		(at 195.58 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3836,7 +3690,7 @@
 	)
 	(hierarchical_label "TailServo2"
 		(shape output)
-		(at 248.92 104.14 0)
+		(at 218.44 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3858,7 +3712,7 @@
 	)
 	(hierarchical_label "NoseServo1"
 		(shape output)
-		(at 248.92 114.3 0)
+		(at 218.44 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3880,7 +3734,7 @@
 	)
 	(hierarchical_label "EarServo2"
 		(shape output)
-		(at 248.92 111.76 0)
+		(at 218.44 137.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3902,7 +3756,7 @@
 	)
 	(hierarchical_label "BackBut4"
 		(shape input)
-		(at 195.58 107.95 0)
+		(at 195.58 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4038,72 +3892,6 @@
 			(project ""
 				(path "/4f572b99-5eee-4690-a22b-0d608e2cc8a2/0e66cc90-61f8-4663-a973-c6e7f6eb0668"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+VDC")
-		(at 114.3 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8ae963ec-da35-411a-b3e7-7dd90ff89700")
-		(property "Reference" "#PWR06"
-			(at 114.3 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+VDC"
-			(at 114.3 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 114.3 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+VDC\""
-			(at 114.3 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4f93097d-d105-4b76-8004-6395fe38c569")
-		)
-		(instances
-			(project "BCM"
-				(path "/4f572b99-5eee-4690-a22b-0d608e2cc8a2/0e66cc90-61f8-4663-a973-c6e7f6eb0668"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)

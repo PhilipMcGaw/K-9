@@ -2754,7 +2754,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 120.65) (xy 193.04 120.65)
+			(xy 193.04 120.65) (xy 198.12 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2821,16 +2821,6 @@
 			(type default)
 		)
 		(uuid "8ee46a5f-2ff7-4760-b7ec-802f994104f1")
-	)
-	(wire
-		(pts
-			(xy 124.46 52.07) (xy 127 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9033d5e6-b388-478a-bb52-c83e02432c5c")
 	)
 	(wire
 		(pts
@@ -3004,7 +2994,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 118.11) (xy 193.04 118.11)
+			(xy 193.04 118.11) (xy 198.12 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3154,16 +3144,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 54.61) (xy 127 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc0a8494-c691-46da-9bc1-8f842f14a59d")
-	)
-	(wire
-		(pts
 			(xy 238.76 55.88) (xy 241.3 55.88)
 		)
 		(stroke
@@ -3195,7 +3175,7 @@
 	)
 	(hierarchical_label "BackBut11"
 		(shape input)
-		(at 195.58 80.01 0)
+		(at 195.58 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3206,7 +3186,7 @@
 	)
 	(hierarchical_label "EyesLight1"
 		(shape output)
-		(at 195.58 90.17 0)
+		(at 195.58 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3228,7 +3208,7 @@
 	)
 	(hierarchical_label "NoseLight"
 		(shape output)
-		(at 195.58 95.25 0)
+		(at 195.58 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3261,7 +3241,7 @@
 	)
 	(hierarchical_label "SpaireBut3"
 		(shape input)
-		(at 195.58 105.41 0)
+		(at 195.58 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3283,7 +3263,7 @@
 	)
 	(hierarchical_label "SpaireLight5"
 		(shape output)
-		(at 195.58 97.79 0)
+		(at 195.58 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3305,7 +3285,7 @@
 	)
 	(hierarchical_label "SpaireLight3"
 		(shape output)
-		(at 195.58 100.33 0)
+		(at 195.58 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3316,7 +3296,7 @@
 	)
 	(hierarchical_label "BackBut6"
 		(shape input)
-		(at 195.58 64.77 0)
+		(at 195.58 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3327,7 +3307,7 @@
 	)
 	(hierarchical_label "BackBut8"
 		(shape input)
-		(at 195.58 85.09 0)
+		(at 195.58 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3404,18 +3384,18 @@
 	)
 	(hierarchical_label "BackBut1"
 		(shape input)
-		(at 124.46 54.61 180)
+		(at 195.58 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "6f35ba29-8088-45cb-85c9-aed689410772")
 	)
 	(hierarchical_label "BackBut12"
 		(shape input)
-		(at 195.58 82.55 0)
+		(at 195.58 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3426,7 +3406,7 @@
 	)
 	(hierarchical_label "BackLED7"
 		(shape output)
-		(at 195.58 67.31 0)
+		(at 195.58 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3437,7 +3417,7 @@
 	)
 	(hierarchical_label "SpaireBut6"
 		(shape input)
-		(at 195.58 107.95 0)
+		(at 195.58 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3448,7 +3428,7 @@
 	)
 	(hierarchical_label "BackBut9"
 		(shape input)
-		(at 195.58 74.93 0)
+		(at 195.58 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3459,7 +3439,7 @@
 	)
 	(hierarchical_label "BackBut10"
 		(shape input)
-		(at 195.58 72.39 0)
+		(at 195.58 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3492,7 +3472,7 @@
 	)
 	(hierarchical_label "BackLED6"
 		(shape output)
-		(at 195.58 62.23 0)
+		(at 195.58 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3514,7 +3494,7 @@
 	)
 	(hierarchical_label "SpaireBut4"
 		(shape input)
-		(at 195.58 102.87 0)
+		(at 195.58 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3525,12 +3505,12 @@
 	)
 	(hierarchical_label "BackLED1"
 		(shape output)
-		(at 124.46 52.07 180)
+		(at 195.58 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "945e1fb0-e185-410e-b27b-c2f98345da56")
 	)
@@ -3580,7 +3560,7 @@
 	)
 	(hierarchical_label "SpaireLight1"
 		(shape output)
-		(at 195.58 92.71 0)
+		(at 195.58 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3602,7 +3582,7 @@
 	)
 	(hierarchical_label "SpaireBut5"
 		(shape input)
-		(at 195.58 110.49 0)
+		(at 195.58 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3624,7 +3604,7 @@
 	)
 	(hierarchical_label "EyesLight2"
 		(shape output)
-		(at 195.58 87.63 0)
+		(at 195.58 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3646,7 +3626,7 @@
 	)
 	(hierarchical_label "BackBut7"
 		(shape input)
-		(at 195.58 69.85 0)
+		(at 195.58 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3756,7 +3736,7 @@
 	)
 	(hierarchical_label "BackBut4"
 		(shape input)
-		(at 195.58 77.47 0)
+		(at 195.58 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)

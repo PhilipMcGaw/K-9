@@ -3385,12 +3385,12 @@
 	)
 	(hierarchical_label "BackBut5"
 		(shape input)
-		(at 195.58 90.17 0)
+		(at 124.46 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "100e20e0-b841-4467-98ef-9a2073041962")
 	)
@@ -3418,7 +3418,7 @@
 	)
 	(hierarchical_label "BackLED3"
 		(shape output)
-		(at 124.46 49.53 180)
+		(at 124.46 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3517,7 +3517,7 @@
 	)
 	(hierarchical_label "BackLED2"
 		(shape output)
-		(at 124.46 46.99 180)
+		(at 124.46 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3550,12 +3550,12 @@
 	)
 	(hierarchical_label "BackBut1"
 		(shape input)
-		(at 195.58 77.47 0)
+		(at 124.46 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6f35ba29-8088-45cb-85c9-aed689410772")
 	)
@@ -3627,12 +3627,12 @@
 	)
 	(hierarchical_label "BackBut2"
 		(shape input)
-		(at 195.58 85.09 0)
+		(at 124.46 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "8f3a3383-b59c-4d8f-904f-1fd9c0b5615f")
 	)
@@ -3671,7 +3671,7 @@
 	)
 	(hierarchical_label "BackLED1"
 		(shape output)
-		(at 124.46 44.45 180)
+		(at 124.46 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3814,12 +3814,12 @@
 	)
 	(hierarchical_label "BackBut3"
 		(shape input)
-		(at 195.58 82.55 0)
+		(at 124.46 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "dfb0dacb-80a8-45f9-9e92-121c44ae534c")
 	)
@@ -3847,12 +3847,12 @@
 	)
 	(hierarchical_label "BackLED5"
 		(shape output)
-		(at 195.58 87.63 0)
+		(at 124.46 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ea3665f3-c853-4622-aa3f-2cbdfad9400c")
 	)
